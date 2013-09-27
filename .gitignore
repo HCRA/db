@@ -3,5 +3,9 @@
 .sass-cache
 /config/config.php
 /config/config.dat
+/uploaded/*
+!/uploaded/public/.htaccess
+!/uploaded/thumbnails/.htaccess
 *.swp
 *.swo
+.fuse_hidden*
