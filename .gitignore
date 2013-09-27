@@ -1,0 +1,7 @@
+/sftp-config.json
+/logs/*.txt
+.sass-cache
+/config/config.php
+/config/config.dat
+*.swp
+*.swo
